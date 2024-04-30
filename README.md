@@ -1,4 +1,4 @@
-# gp
+# qp
 
 Quick pastebin for terminal
 
